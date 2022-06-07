@@ -1,4 +1,4 @@
-### Hi, I'm Shomirza Abdurakhmonov <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e47ed20tfuaaixhx97yg5ui4n71hx6xdsx3y45a3qx5&rid=200w.webp&ct=s" witdh="20px">
+### Hi, I'm Shomirza Abdurakhmonov <img src="https://media2.giphy.com/media/w1OBpBd7kJqHrJnJ13/200w.webp?cid=ecf05e47ed20tfuaaixhx97yg5ui4n71hx6xdsx3y45a3qx5&rid=200w.webp&ct=s" width="30px">
 
 Languages and tools I work with:
 
