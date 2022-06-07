@@ -1,4 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCFzcasrRia7z/giphy.gif"width="30px">
+### Hi, I'm Shomirza Abdurakhmonov <img src="https://media.giphy.com/media/hvRJCFzcasrR4ia7z/giphy.gif" width="30px" />
 
 
 <!--
