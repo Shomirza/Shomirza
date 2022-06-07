@@ -6,6 +6,6 @@ Languages and tools I work with:
 <code><img src="https://p1.hiclipart.com/preview/326/868/1022/css3-badge-blue-and-white-css-icon-png-clipart.jpg" width="30px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCLUKOQCOI-AjefkLBKJhki0UiBHwEjZ4qp9DDqRoKd2MGzwlgap-96EFhgQZkwt0XGM&usqp=CAU" width="30px"></code>
 
-📍   Current location: Toshkent, Uzbekistan
-📝  Ask me about anything, I am happy to help
-📨  How to reach me: https://t.me/shomirza0120
+📍   Current location: Toshkent, Uzbekistan <br/>
+📝  Ask me about anything, I am happy to help <br/>
+📨  How to reach me: https://t.me/shomirza0120 <br/>
